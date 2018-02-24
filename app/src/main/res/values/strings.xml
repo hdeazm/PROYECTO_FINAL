@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Control Escolar</string>
+    <string name="lista_alumnos">Lista de Alumnos</string>
+    <string name="buscar_alumnos">Buscar Alumnos</string>
+    <string name="title_activity_lista_alumnos">Lista de Alumnos</string>
+    <string name="title_activity_buscar_alumnos">Lista de Alumnos</string>
+    <string name="buscar">Buscar Alumno</string>
+    <string name="title_activity_lista">ListaActivity</string>
+    <string name="title_activity_buscar">BuscarActivity</string>
+</resources>
